@@ -2,6 +2,9 @@
 
 Rickroll roulette will bring a new dimension of UI/UX enjoyment to your site.
 
+We have added a piece of Middleware to ensure that any HTTP request gives you a 50/50 percent chance to fully enjoy the benefits and wonders
+of Rick Astley.
+
 ## Installation
 
 Add this line to your application's Gemfile:
@@ -19,7 +22,7 @@ Or install it yourself as:
 ## Usage
 
 
-gem "rickrolling_roulette", "~> 0.0.1"
+include into your Gemfile: gem "rickrolling_roulette"
 
 Done.
 
