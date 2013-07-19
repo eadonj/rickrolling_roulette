@@ -18,7 +18,13 @@ Or install it yourself as:
 
 ## Usage
 
-Place rickroll in controller for superb enjoyment
+
+gem "rickrolling_roulette", "~> 0.0.1"
+
+Done.
+
+Enjoy RickrollingRoulette for Superb User Enjoyment
+
 
 ## Contributing
 

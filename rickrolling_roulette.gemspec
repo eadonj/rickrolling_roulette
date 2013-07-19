@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["eadonj@gmail.com"]
   spec.description   = %q{Rickroll Roulette will bring a new dimension of UI/UX enjoyment to your site.}
   spec.summary       = %q{Rickroll Roulette will bring a new dimension of UI/UX enjoyment to your site.}
-  spec.homepage      = ""
+  spec.homepage      = "https://rubygems.org/gems/rickrolling_roulette"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files`.split($/)
