@@ -1,6 +1,6 @@
 # RickrollingRoulette
 
-TODO: Write a gem description
+Rickroll roulette will bring a new dimension of UI/UX enjoyment to your site.
 
 ## Installation
 
@@ -18,7 +18,7 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+Place rickroll in controller for superb enjoyment
 
 ## Contributing
 

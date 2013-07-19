@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.version       = RickrollingRoulette::VERSION
   spec.authors       = ["Eadon"]
   spec.email         = ["eadonj@gmail.com"]
-  spec.description   = %q{TODO: Write a gem description}
-  spec.summary       = %q{TODO: Write a gem summary}
+  spec.description   = %q{Rickroll Roulette will bring a new dimension of UI/UX enjoyment to your site.}
+  spec.summary       = %q{Rickroll Roulette will bring a new dimension of UI/UX enjoyment to your site.}
   spec.homepage      = ""
   spec.license       = "MIT"
 
